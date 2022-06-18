@@ -1,0 +1,211 @@
+Linea,Inicio,Destino,Longitud de interestacion (metros)
+1,Pantitlan ,Zaragoza,"1,320"
+1,Zaragoza , Gomez Farías,762
+1,Gomez Farías  ,Boulevard Puerto Aereo,611
+1,Boulevard Puerto Aéreo -, Balbuena,595
+1,Balbuena ,Moctezuma,703
+1,Moctezuma,San Lazaro,478
+1,San Lazaro ,Candelaria,866
+1,Candelaria ,Merced,698
+1,Merced ,Pino Suarez,745
+1,Pino Suarez ,Isabel la Catolica,382
+1,Isabel la Catolica ,Salto del Agua,445
+1,Salto del Agua ,Balderas,458
+1,Balderas ,Cuauhtemoc,409
+1,Cuauhtemoc ,Insurgentes,793
+1,Insurgentes , Sevilla,645
+1,Sevilla ,Chapultepec,501
+1,Chapultepec ,Juanacatlan,973
+1,Juanacatlan ,Tacubaya,"1,158"
+1,Tacubaya ,Observatorio,"1,262"
+,,,
+2,Cuatro Caminos ,Panteones,"1,639"
+2,Panteones , Tacuba,"1,416"
+2,Tacuba ,Cuitlahuac,637
+2,Cuitlahuac , Popotla,620
+2,Popotla ,Colegio Militar,462
+2,Colegio Militar, Normal,516
+2,Normal ,San Cosme,657
+2,San Cosme ,Revolucion,537
+2,Revolucion, Hidalgo,587
+2,Hidalgo,Bellas Artes,447
+2,Bellas Artes ,Allende,387
+2,Allende ,Zocalo,602
+2,Zocalo , Pino Suarez,745
+2,Pino Suarez , San Antonio Abad,817
+2,San Antonio Abad ,Chabacano,642
+2,Chabacano , Viaducto,774
+2,Viaducto ,Xola,490
+2,Xola ,Villa de Cortes,698
+2,Villa de Cortes ,Nativitas,750
+2,Nativitas ,Portales,924
+2,Portales , Ermita,748
+2,Ermita ,General Anaya,838
+2,General Anaya ,Tasqueña,"1,330"
+,,,
+3,Indios Verdes ,Deportivo 18 de Marzo,"1,166"
+3,Deportivo 18 de Marzo, Potrero,966
+3,Potrero , La Raza,"1,106"
+3,La Raza , Tlatelolco,"1,445"
+3,Tlatelolco ,Guerrero,"1,042"
+3,Guerrero , Hidalgo,702
+3,Hidalgo ,Juarez,251
+3,Juarez , Balderas,659
+3,Balderas ,Niños Heroes,665
+3,Niños Heroes ,Hospital General,559
+3,Hospital General ,Centro Medico,653
+3,Centro Medico , Etiopia/Plaza de la Transparencia,"1,119"
+3,Etiopia/Plaza de la Transparencia ,Eugenia,950
+3,Eugenia , Division del norte,715
+3,Division del Norte ,Zapata,794
+3,Zapata,Coyoacan,"1,153"
+3,Coyoacan ,Viveros/Derechos Humanos,908
+3,Viveros/Derechos Humanos , Miguel Angel de Quevedo,824
+3,Miguel Angel de Quevedo , Copilco,"1,295"
+3,Copilco , Universidad,"1,306"
+,,,
+8,Garibaldi ,Bellas Artes,634
+8,Bellas Artes ,San Juan de Letran,456
+8,San Juan de Letran ,Salto del Agua,292
+8,Salto del Agua , Doctores,564
+8,Doctores ,Obrera,761
+8,Obrera , Chabacano,"1,143"
+8,Chabacano ,La Viga,843
+8,La Viga ,Santa Anita,633
+8,Santa Anita ,Coyuya,968
+8,Coyuya  ,Iztacalco,993
+8,Iztacalco ,Apatlaco,910
+8,Apatlaco ,Aculco,534
+8,Aculco  ,Escuadron 201,789
+8,Escuadron 201 ,Atlalilco,"1,738"
+8,Atlalilco , Iztapalapa,732
+8,Iztapalapa ,Cerro de la Estrella,717
+8,Cerro de la Estrella ,UAM I,"1,135"
+8,UAM I , Constitucion de 1917,"1,137"
+,,,
+9,Pantitlan ,Puebla,"1,380"
+9,Puebla , Ciudad Deportiva,800
+9,Ciudad Deportiva ,Velodromo,"1,110"
+9,Velodromo ,Mixiuhca,821
+9,Mixiuhca ,Jamaica,942
+9,Jamaica ,Chabacano,"1,031"
+9,Chabacano ,Lazaro Cardenas,"1,000"
+9,Lazaro Cardenas ,Centro Medico,"1,059"
+9,Centro Medico ,Chilpancingo,"1,152"
+9,Chilpancingo,Patriotismo,955
+9,Patriotismo ,Tacubaya,"1,133"
+,,,
+B,Ciudad Azteca ,Plaza Aragon,574
+B,Plaza Aragon,Olimpica,709
+B,Olimpica , Ecatepec,596
+B,Ecatepec,Muzquiz,"1,485"
+B,Muzquiz ,Rio de los Remedios,"1,155"
+B,Rio de los Remedios ,Impulsora,436
+B,Impulsora ,Nezahualcoyotl,"1,393"
+B,Nezahualcoyotl , Villa de Aragon,"1,335"
+B,Villa de Aragon,Bosques de Aragon,784
+B,Bosques de Aragon ,Deportivo Oceania,"1,165"
+B,Deportivo Oceania ,Oceania,863
+B,Oceania , Romero Rubio,809
+B,Romero Rubio ,Ricardo Flores Magon,908
+B,Ricardo Flores Magon , San Lazaro,907
+B,San Lazaro ,Morelos,"1,296"
+B,Morelos ,Tepito,498
+B,Tepito ,Lagunilla,611
+B,Lagunilla ,Garibaldi,474
+B,Garibaldi ,Guerrero,757
+B,Guerrero ,Buenavista,521
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
